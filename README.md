@@ -2,6 +2,7 @@
 
 ## 📌 Project Overview
 This **IT Helpdesk Ticketing System** is designed to efficiently **track and manage IT support tickets** using **Google Forms, Google Sheets, and Google Apps Script**.  
+
 It enables users to submit IT issues, while IT staff can track, update, and resolve tickets in an organized way.  
 
 ## 🎯 Features
@@ -20,5 +21,5 @@ It enables users to submit IT issues, while IT staff can track, update, and reso
 
 | 🎫 Ticket Submission (Google Form) | 📊 Ticket Tracking (Google Sheets) |
 |---------------------------------|--------------------------------|
-| ![Google Form Screenshot](https://via.placeholder.com/400x250.png?text=Google+Form) | ![Google Sheet Screenshot](https://via.placeholder.com/400x250.png?text=Google+Sheets) |
+| ![Google Form Screenshot](https://docs.google.com/forms/d/e/1FAIpQLSd8aCNpcDBk4LKrTM27KZJPhSFa8jwQZYoDJ-0yMn7yjKj75g/viewform?fbzx=-2271125081783090265) | ![Google Sheet Screenshot](https://docs.google.com/spreadsheets/d/18ENEjin3l-RViKd6UoNX5nHSZd1hwm44YkD980j8n2Y/edit?usp=sharing) |
 
