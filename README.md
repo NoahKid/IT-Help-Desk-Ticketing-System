@@ -21,5 +21,5 @@ It enables users to submit IT issues, while IT staff can track, update, and reso
 
 | 🎫 Ticket Submission (Google Form) | 📊 Ticket Tracking (Google Sheets) |
 |---------------------------------|--------------------------------|
-| ![Google Form Screenshot](https://docs.google.com/forms/d/e/1FAIpQLSd8aCNpcDBk4LKrTM27KZJPhSFa8jwQZYoDJ-0yMn7yjKj75g/viewform?fbzx=-2271125081783090265) | ![Google Sheet Screenshot](https://docs.google.com/spreadsheets/d/18ENEjin3l-RViKd6UoNX5nHSZd1hwm44YkD980j8n2Y/edit?usp=sharing) |
+| ![Google Form Screenshot](https://github.com/NoahKid/IT-Help-Desk-Ticketing-System/blob/main/Screen%20Shot%202025-03-04%20at%2012.28.35%20AM.png) | ![Google Sheet Screenshot](https://docs.google.com/spreadsheets/d/18ENEjin3l-RViKd6UoNX5nHSZd1hwm44YkD980j8n2Y/edit?usp=sharing) |
 
